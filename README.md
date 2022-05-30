@@ -21,6 +21,11 @@
 - [Styled Component](/CSS/Styled%20Component.md)
 
 ## Computer Science
+- [CS](/CS/README.md)
+    - API와 SDK란 무엇인가 
+    - OOP의 장점과 5가지 원칙
+    - 함수형 프로그래밍이란
+    - 순수함수란
 
 ## Algorithm
 
@@ -29,3 +34,4 @@
 ## Web Design
 
 ## Git
+- [Git](/CS/README.md)
